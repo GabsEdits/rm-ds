@@ -1,0 +1,11 @@
+{
+  "name": "rm-ds",
+  "version": "1.0.0",
+  "description": "A tool to remove .DS_Store files from a directory.",
+  "main": "bin/rm-ds",
+  "bin": {
+    "rm-ds": "./bin/rm-ds"
+  },
+  "author": "Gabriel Cozma",
+  "license": "MIT"
+}
